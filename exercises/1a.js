@@ -4,6 +4,10 @@
  * "Vegetable Stir Fry has 4 ingredients and serves 2 people"
  */
 function recipeSummary(recipe) {
+
+  const id = recipe1 + recipe2
+
+  return id
   // code here
 }
 
