@@ -3,6 +3,8 @@
  * in the array
  */
 function lastRecipe(recipeBook) {
+  return recipeBook.recipes[recipeBook.recipes.length - 1]?.name
+
   // code here
 }
 
